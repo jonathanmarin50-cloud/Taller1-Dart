@@ -1,5 +1,8 @@
 import 'dart:io';
 
+/// Taller 1: Implementación del código base del CRUD de productos.
+/// Gestión de inventario de tienda mediante consola en Dart.
+///
 /// Función principal que inicializa el catálogo y controla el ciclo del menú.
 void main() {
   // Lista que almacenará los mapas con la información de cada producto
