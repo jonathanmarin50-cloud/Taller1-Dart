@@ -1,0 +1,6 @@
+name: taller1_dart
+description: Aplicación CRUD de consola para gestión de inventario en Dart.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
